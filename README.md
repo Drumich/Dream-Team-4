@@ -1,13 +1,10 @@
-t add README.mdHello   
-Hello?    
-Hello!    
-Hello   
-Hello?    
-Hello!    
-
-its me Bogdan :) Hey there test2
-
-yujhj
-
-hello
-
+```
+#!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.name Drumich
+git add .
+git commit -m $1
+git push origin master
+fi
+```
