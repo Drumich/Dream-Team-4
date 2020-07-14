@@ -1,3 +1,21 @@
+code . (opens text editor)      
+c# ext 1.22.1 build     
+c# ext 1.3.5        
+ctrl + / (turns line into a comment)    
+
+
+
+https://dotnet.microsoft.com/learn       
+downlaod visual studio code       
+download dotnet       
+manual install nvm      https://github.com/nvm-sh/nvm     
+
+
+
+
+
+
+
 ```
 #!/bin/bash
 if [ $# == 1 ]
