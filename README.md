@@ -2,7 +2,7 @@
 #!/bin/bash
 if [ $# == 1 ]
 then
-git config --global user.name Drumich
+git config --global user.name name
 git add .
 git commit -m $1
 git push origin master
