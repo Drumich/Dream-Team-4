@@ -2,7 +2,7 @@
 hybridapps    
 [polyfills](https://en.wikipedia.org/wiki/Polyfill_(programming)) 
 [w3c validator](https://validator.w3.org/)    
-
+[Academind](https://www.youtube.com/c/Academind/videos)   
 rockstar language (check on google or youtube)    
 
 single page applications(uses js)   
