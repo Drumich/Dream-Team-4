@@ -29,7 +29,7 @@ fi
 
 
 QA - quality assurance (testētāji)    
-dev = programmētājs   
+dev = programmētājs (unitest - testē pats savu kodu)    
 
 serverless (cloud - aws , google , azure)   
 
