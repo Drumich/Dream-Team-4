@@ -21,6 +21,7 @@ need to stop server every time u update a library or some shit...  (for example 
 ```
 npm i -g @angular/cli   
 ng new    
+ng build  
 cd to the created directory   
 code . &    
 ng serve    
