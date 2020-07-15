@@ -1,4 +1,18 @@
 [can i use?](https://caniuse.com/)    
+hybridapps    
+[polyfills](https://en.wikipedia.org/wiki/Polyfill_(programming)) 
+[w3c validator](https://validator.w3.org/)    
+
+rockstar language (check on google or youtube)    
+
+single page applications(uses js)   
+
+ecmascript  = js    
+
+
+
+
+
 
 
 code . (opens text editor)      
