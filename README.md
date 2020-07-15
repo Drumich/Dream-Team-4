@@ -13,6 +13,10 @@ hybridapps
 var/const/closure/let   in js   
 
 
+
+
+
+need to stop server every time u update a library or some shit...   
 ```
 npm i -g @angular/cli   
 ng new    
