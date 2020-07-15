@@ -26,3 +26,14 @@ git commit -m $1
 git push origin master
 fi
 ```
+
+
+QA - quality assurance (testētāji)    
+dev = programmētājs   
+
+serverless (cloud - aws , google , azure)   
+
+
+
+gartner hype cycle    
+bubble sort   
