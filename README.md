@@ -14,7 +14,11 @@ var/const/closure/let   in js
 
 
 
-
+  
+dotnet new webapi -o webappthing      
+dotnet watch run    
+http://127.0.0.1:5000/weatherforecast       
+curl http://127.0.0.1:5000/weatherforecast |json_pp   
 
 need to stop server every time u update a library or some shit...  (for example - ng add @angular/material  (angular material typography styles = yes ,browser animations = yes)  )     
 
