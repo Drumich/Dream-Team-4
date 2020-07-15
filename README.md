@@ -11,6 +11,16 @@ hybridapps
 var/const/closure/let   in js   
 
 
+```
+npm i -g @angular/cli   
+ng new    
+cd to the created directory   
+code . &    
+ng serve    
+
+```
+
+
 [Solid/OOP vladilin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)    
 
 rockstar language (check on google or youtube)    
