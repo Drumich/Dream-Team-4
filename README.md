@@ -16,7 +16,7 @@ var/const/closure/let   in js
 
 
 
-need to stop server every time u update a library or some shit...  (for example - ng add @angular/material    )     
+need to stop server every time u update a library or some shit...  (for example - ng add @angular/material  (angular material typography styles = yes ,browser animations = yes)  )     
 
 ```
 npm i -g @angular/cli   
