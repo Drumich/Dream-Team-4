@@ -3,6 +3,15 @@ hybridapps
 [polyfills](https://en.wikipedia.org/wiki/Polyfill_(programming)) 
 [w3c validator](https://validator.w3.org/)    
 [Academind](https://www.youtube.com/c/Academind/videos)   
+[ci/cd](https://en.wikipedia.org/wiki/CI/CD)    
+[Vue.js](https://en.wikipedia.org/wiki/Vue.js)    
+[free API](https://any-api.com/)    
+[colors in CSS and stuff](https://developer.mozilla.org/en-US/docs/Web/HTML/Applying_color)   
+var/const/closure/let   in js   
+
+
+[Solid/OOP vladilin](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)    
+
 rockstar language (check on google or youtube)    
 
 single page applications(uses js)   
