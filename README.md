@@ -28,8 +28,15 @@ fi
 ```
 
 
-QA - quality assurance (testētāji)    
-dev = programmētājs (unitest - testē pats savu kodu)    
+QA - quality assurance (testētāji)  
+manual test(front end)    
+unitest - testē pats savu kodu)        
+
+
+
+dev = programmētājs   
+  
+
 
 serverless (cloud - aws , google , azure)   
 
