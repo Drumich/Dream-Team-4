@@ -114,3 +114,15 @@ MVC
 [plot js](https://plotly.com/javascript/)  
 
 [run stuff from github directly](https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source)  
+
+
+
+```
+in app.module.ts copy this code>>> 
+import {MatIconModule} from '@angular/material/icon'; 
+
+and MatIconModule goes in imports: [
+like this                 MatIconModule,
+                          something
+                          ]
+```
