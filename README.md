@@ -107,4 +107,4 @@ design pattern - bubble sort
 MVC  
 (M)odel (data) ==> (C)(code) ==> (V)iew(visual)   
 
-[WEBSTORM allegedly best IDE](https://www.jetbrains.com/webstorm/)  
+[WEBSTORM allegedly best IDE 5$ a month](https://www.jetbrains.com/webstorm/)  
