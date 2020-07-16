@@ -99,7 +99,7 @@ dev = programmētājs
 
 serverless (cloud - aws , google , azure)   
 
-
+gang of four design pattern  
  
 gartner hype cycle     
 design pattern - bubble sort   
