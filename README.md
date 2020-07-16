@@ -11,7 +11,17 @@ hybridapps
 [free API](https://any-api.com/)    
 [colors in CSS and stuff](https://developer.mozilla.org/en-US/docs/Web/HTML/Applying_color)   
 var/const/closure/let   in js   
+```
+export NVM_DIR="$HOME/.nvm" && (
+ git clone https://github.com/nvm-sh/nvm.git "$NVM_DIR"
+ cd "$NVM_DIR"
+ git checkout `git describe --abbrev=0 --tags --match "v[0-9]*" $(git rev-list --tags --max-count=1)`
+) && \. "$NVM_DIR/nvm.sh"
 
+//
+nvm i 12
+//
+```
 
 
   
