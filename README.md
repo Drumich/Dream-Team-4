@@ -100,6 +100,10 @@ dev = programmētājs
 serverless (cloud - aws , google , azure)   
 
 
+ 
+gartner hype cycle     
+design pattern - bubble sort   
 
-gartner hype cycle    
-bubble sort   
+MVC  
+Model (data) ==> C (code) ==> view(visual)  
+
