@@ -109,4 +109,6 @@ MVC
 
 [WEBSTORM allegedly best IDE 5$ a month](https://www.jetbrains.com/webstorm/)  
 
-[xnf git](https://github.com/xnf/edibo-angular) 
+[xnf git](https://github.com/xnf/edibo-angular)   
+
+[plot js](https://plotly.com/javascript/)  
