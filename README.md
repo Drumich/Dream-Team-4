@@ -112,3 +112,5 @@ MVC
 [xnf git](https://github.com/xnf/edibo-angular)   
 
 [plot js](https://plotly.com/javascript/)  
+
+[run stuff from github directly](https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source)  
