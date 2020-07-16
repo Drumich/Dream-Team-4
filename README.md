@@ -105,5 +105,6 @@ gartner hype cycle
 design pattern - bubble sort   
 
 MVC  
-(M)odel (data) ==> (C)(code) ==> (V)iew(visual)  
+(M)odel (data) ==> (C)(code) ==> (V)iew(visual)   
 
+[WEBSTORM allegedly best IDE](https://www.jetbrains.com/webstorm/)  
