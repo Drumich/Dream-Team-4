@@ -105,5 +105,5 @@ gartner hype cycle
 design pattern - bubble sort   
 
 MVC  
-Model (data) ==> C (code) ==> view(visual)  
+(M)odel (data) ==> (C)(code) ==> (V)iew(visual)  
 
