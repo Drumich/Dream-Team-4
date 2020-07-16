@@ -122,7 +122,7 @@ in app.module.ts copy this code>>>
 import {MatIconModule} from '@angular/material/icon'; 
 
 and MatIconModule goes in imports: [
-like this                 MatIconModule,
+like this     >>>         MatIconModule,
                           something
                           ]
 ```
