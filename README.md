@@ -34,8 +34,9 @@ need to stop server every time u update a library or some shit...  (for example 
 
 ```
 npm i -g @angular/cli   
-ng new    
-ng build  
+ng new  
+cd to the created directory   
+ng add @angular/material   
 cd to the created directory   
 code . &    
 ng serve    
