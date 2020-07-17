@@ -136,4 +136,6 @@ dry = dont repeat yourself
 
 [ci/cd](https://en.wikipedia.org/wiki/CI/CD)  
 
-
+```
+ng g m currency , ng g c currency , ng g s currency
+```
