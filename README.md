@@ -1,7 +1,9 @@
 [Angular stuff](https://material.angular.io/components/categories)    
+[Angular File Structuring Guide](https://angular.io/guide/file-structure)
+
 
 [can i use?](https://caniuse.com/)    
-[HTML event attributes SCRIPTS!!!](https://www.w3schools.com/tags/ref_eventattributes.asp)    
+[HTML event attributes SCRIPTS!!!](https://www.w3schools.com/tags/ref_eventattributes.asp)      
 hybridapps    
 [polyfills](https://en.wikipedia.org/wiki/Polyfill_(programming)) 
 [w3c validator](https://validator.w3.org/)    
