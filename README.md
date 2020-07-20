@@ -1,6 +1,9 @@
 [Angular stuff](https://material.angular.io/components/categories)    
 [Angular File Structuring Guide](https://angular.io/guide/file-structure)  
-[Angular guide](https://code.tutsplus.com/tutorials/beginners-guide-to-angular-4-components--cms-29674)  
+[Angular guide](https://code.tutsplus.com/tutorials/beginners-guide-to-angular-4-components--cms-29674)    
+[GoJS digrams and graphs](https://gojs.net/latest/index.html)   
+
+
 ```
 dotnet new webapi -o MyWebApi
 
