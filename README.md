@@ -2,7 +2,7 @@
 [Angular File Structuring Guide](https://angular.io/guide/file-structure)  
 [Angular guide](https://code.tutsplus.com/tutorials/beginners-guide-to-angular-4-components--cms-29674)    
 [GoJS digrams and graphs](https://gojs.net/latest/index.html)   
-
+[QuizBucket](http://quizbucket.org/)   
 
 ```
 dotnet new webapi -o MyWebApi
