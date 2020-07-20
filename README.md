@@ -1,5 +1,6 @@
 [Angular stuff](https://material.angular.io/components/categories)    
 [Angular File Structuring Guide](https://angular.io/guide/file-structure)
+[Angular guide](https://code.tutsplus.com/tutorials/beginners-guide-to-angular-4-components--cms-29674)  
 
 
 [can i use?](https://caniuse.com/)    
