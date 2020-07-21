@@ -149,3 +149,10 @@ dry = dont repeat yourself
 ```
 ng g m currency , ng g c currency , ng g s currency
 ```
+
+
+
+```
+import { CurrencyModule } from './currency/currency.module'; (from ./currency/.... means that you can find this on src/app/currency!!!)
+add to imports CurrencyModule
+```
