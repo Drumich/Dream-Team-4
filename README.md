@@ -6,6 +6,10 @@
 
 ```
 dotnet new webapi -o MyWebApi
+in Startup.cs comment out this line "// app.UseHttpsRedirection();"
+in launchSettings.json delete this "https://localhost:5001;"
+
+
 
 ```
 
