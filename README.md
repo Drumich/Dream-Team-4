@@ -6,10 +6,15 @@
 
 ```
 dotnet new webapi -o MyWebApi
+------------------------
 in Startup.cs comment out this line "// app.UseHttpsRedirection();"
 in launchSettings.json delete this "https://localhost:5001;"
-
-
+--------------------------
+dotnet watch run    
+http://127.0.0.1:5000/weatherforecast       
+curl http://127.0.0.1:5000/weatherforecast |json_pp   
+--------------------------------
+need to stop server every time u update a library or some shit...  (for example - ng add @angular/material  (angular material typography styles = yes ,browser animations = yes)  )   
 
 ```
 
@@ -38,12 +43,7 @@ nvm i 12
 
 
   
-dotnet new webapi -o webappthing      
-dotnet watch run    
-http://127.0.0.1:5000/weatherforecast       
-curl http://127.0.0.1:5000/weatherforecast |json_pp   
-
-need to stop server every time u update a library or some shit...  (for example - ng add @angular/material  (angular material typography styles = yes ,browser animations = yes)  )     
+  
 
 ```
 npm i -g @angular/cli   
@@ -67,38 +67,6 @@ ecmascript  = js
 
 
 
-
-
-
-
-code . (opens text editor)      
-c# ext 1.22.1 build     
-c# ext 1.3.5        
-ctrl + / (turns line into a comment)    
-
-
-
-https://dotnet.microsoft.com/learn       
-downlaod visual studio code       
-download dotnet       
-manual install nvm      https://github.com/nvm-sh/nvm     
-
-
-
-
-
-
-
-```
-#!/bin/bash
-if [ $# == 1 ]
-then
-git config --global user.name name
-git add .
-git commit -m $1
-git push origin master
-fi
-```
 
 
 QA - quality assurance (testētāji)  
