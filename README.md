@@ -3,7 +3,7 @@ https://github.com/Drumich/EDIBO/tree/master/angulartest/stuff/src/app
 
 
 
-
+http://termini.lza.lv/
 
 
 
