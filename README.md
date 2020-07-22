@@ -1,6 +1,17 @@
-https://github.com/Drumich/EDIBO/tree/master/angulartest/stuff/src/app
+https://github.com/Drumich/EDIBO/tree/master/angulartest/stuff/src/app  
+
+https://www.edureka.co/blog/python-turtle-module/  
 
 
+'
+'
+'
+'
+'
+'
+'
+'
+'
 
 
 http://termini.lza.lv/
