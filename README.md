@@ -2,6 +2,11 @@ https://github.com/Drumich/EDIBO/tree/master/angulartest/stuff/src/app
 
 https://www.edureka.co/blog/python-turtle-module/  
 
+r 5 - pw 111
+u17 - pw 171
+b 18 - pw 181
+
+
 
 '
 '
