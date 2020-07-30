@@ -1,3 +1,7 @@
+[dotnet & mySQL](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio-code)
+
+
+
 https://github.com/Drumich/EDIBO/tree/master/angulartest/stuff/src/app  
 
 https://www.edureka.co/blog/python-turtle-module/  
