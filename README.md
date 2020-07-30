@@ -1,4 +1,5 @@
 [dotnet & mySQL](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio-code)
+[2nd dotnet & mysql maybe better than first](https://dev.mysql.com/doc/connector-net/en/connector-net-entityframework-core-example.html)  
 
 
 
